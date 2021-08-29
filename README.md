@@ -50,5 +50,8 @@ My name is Philip Kim
 ![Google](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
   + 깃허브에 이미지 올리고 README에 삽입하기
+ 
+ ![little prince](./images/littlePrincePhoto2.jpg)
+ 
 - 오픈 소스 프로젝트에 기여하기
 - 깃허브에 개인 블로그 만들기
